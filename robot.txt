@@ -1,0 +1,14 @@
+User agent: *
+Disallow: /toolkit.html/
+Disallow: /ourbrand.html/
+Disallow: /visual-identity.html/
+Disallow: /verbal-identity.html/
+Disallow: /gallery.html/
+
+Disallow: /design-principles/focused.html/
+Disallow: /design-principles/intelligent.html/
+Disallow: /design-principles/emotional.html/
+Disallow: /design-principles/different.html/
+Disallow: /design-principles/simple.html/
+Disallow: /design-principles/agile.html/
+Disallow: /www.creativecouple.com/sitemap.xml
